@@ -8,6 +8,10 @@ $CMP CP2102
 F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
 $ENDCMP
 #
+$CMP CP2102N-xxx-xQFN20x
+F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
 $CMP ESP01
 F https://eu.mouser.com/datasheet/2/527/ssw_th-1507658.pdf
 $ENDCMP
