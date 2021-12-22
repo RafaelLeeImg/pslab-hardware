@@ -6139,11 +6139,7 @@ Connection ~ 8500 10300
 Wire Wire Line
 	21000 3000 21000 3200
 Wire Wire Line
-	21000 2700 21000 2800
-Wire Wire Line
 	22100 2500 22200 2500
-Wire Wire Line
-	18700 2000 18800 2000
 $Comp
 L PSLab:MAX5400 U14
 U 1 1 61C718CB
@@ -6719,9 +6715,9 @@ PVS3
 Wire Wire Line
 	20100 1400 20300 1400
 Connection ~ 21600 2900
-Text Label 21000 2700 2    40   ~ 0
+Text Label 20800 2800 0    40   ~ 0
 DAC.2
-Text Label 18800 2000 2    40   ~ 0
+Text Label 18600 2000 0    40   ~ 0
 DAC.1
 Wire Wire Line
 	18600 1200 19100 1200
@@ -6987,4 +6983,8 @@ Wire Wire Line
 	19100 5000 19100 5500
 Wire Wire Line
 	19100 5500 19200 5500
+Wire Wire Line
+	18600 2000 18800 2000
+Wire Wire Line
+	20800 2800 21000 2800
 $EndSCHEMATC
