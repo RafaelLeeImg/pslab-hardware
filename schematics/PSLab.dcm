@@ -38,6 +38,12 @@ $CMP Logos
 F https://pslab.io
 $ENDCMP
 #
+$CMP MAX5400
+D Low-Drift Digital Potentiometer
+K digital potentiometer resistor variable
+F https://datasheets.maximintegrated.com/en/ds/MAX5436-MAX5439.pdf
+$ENDCMP
+#
 $CMP MCP6S21
 F https://eu.mouser.com/datasheet/2/268/21117a-70287.pdf
 $ENDCMP
