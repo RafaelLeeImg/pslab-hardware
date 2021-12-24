@@ -26,6 +26,10 @@ $CMP IP5189T
 F http://www.injoinic.com/wwwroot/uploads/files/20200220/3642884e4c0184d6c0173a5193cd56ce.pdf
 $ENDCMP
 #
+$CMP IP5219
+F http://www.injoinic.com/wwwroot/uploads/files/20200220/3642884e4c0184d6c0173a5193cd56ce.pdf
+$ENDCMP
+#
 $CMP LDFM33PUR
 F https://eu.mouser.com/datasheet/2/389/dm00063302-1797750.pdf
 $ENDCMP
